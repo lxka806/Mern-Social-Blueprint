@@ -1,9 +1,3 @@
-Ah, I see exactly what's happening! Look closely at your HTML table rows (`<td>`) inside that image.
-
-The image tags are cut off and **missing their closing `>` tags**, along with the closing `</td>` tags. Because the HTML is broken, Markdown completely panics and refuses to render the table or the images!
-
-Here is the fully repaired, complete `README.md` file with the HTML table fixed up perfectly so your tech stack icons display beautifully.
-
 ```markdown
 # 🚀 MERN Stack Social Blueprint (Version 1)
 
@@ -51,20 +45,10 @@ This blueprint gives you:
 
 ## 🧰 Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"><br/>React 18</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"><br/>Node.js 22.x</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"><br/>Express 5.x</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"><br/>MongoDB 7.x</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" width="40"><br/>Vite</td>
-  </tr>
-</table>
-
-- **Frontend:** React, Vite, Context API (Coming Soon)
-- **Backend:** Node.js, Express, Mongoose 9.x (Already done for you!)
-- **Database:** MongoDB
-- **Env Management:** Dotenvx
+* ⚛️ **Frontend:** React 18, Vite, Context API *(Coming Soon)*
+* 🟢 **Backend:** Node.js 22.x, Express 5.x, Mongoose 9.x *(Already done for you!)*
+* 🍃 **Database:** MongoDB 7.x
+* 🛠️ **Env Management:** Dotenvx
 
 ---
 
