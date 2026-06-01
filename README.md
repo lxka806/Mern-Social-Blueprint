@@ -1,30 +1,24 @@
-I've updated the README to link directly to your GitHub repository (`https://github.com/lxka806/Mern-Social-Blueprint`) and incorporated key repository details like your username and the latest commit info.
-
-Here is the revised professional README file with your repository link added:
-
+Here is a professionally redesigned README file with badges, GIF support, a cleaner layout, and visual appeal.
 ```markdown
 # 🚀 MERN Stack Social Blueprint (Version 1)
 
 > A production-ready MERN stack foundation with secure cookie-based JWT authentication, global error handling, and scalable architecture — the perfect starting point for your next social application.
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/lxka806/Mern-Social-Blueprint)
-[![MERN Stack](https://img.shields.io/badge/MERN-Stack-green?logo=mongodb&logoColor=white&labelColor=black)](https://github.com/lxka806/Mern-Social-Blueprint)
-[![Node.js](https://img.shields.io/badge/Node.js-22.x-339933?logo=nodedotjs)](https://github.com/lxka806/Mern-Social-Blueprint)
-[![Express](https://img.shields.io/badge/Express-5.x-000000?logo=express)](https://github.com/lxka806/Mern-Social-Blueprint)
-[![React](https://img.shields.io/badge/React-18.x-61DAFB?logo=react)](https://github.com/lxka806/Mern-Social-Blueprint)
-[![MongoDB](https://img.shields.io/badge/MongoDB-7.x-47A248?logo=mongodb)](https://github.com/lxka806/Mern-Social-Blueprint)
-[![JWT](https://img.shields.io/badge/JWT-Cookie-000000?logo=jsonwebtokens)](https://github.com/lxka806/Mern-Social-Blueprint)
-[![License](https://img.shields.io/badge/License-MIT-blue)](https://github.com/lxka806/Mern-Social-Blueprint/blob/main/LICENSE)
-
-**📦 Repository:** [github.com/lxka806/Mern-Social-Blueprint](https://github.com/lxka806/Mern-Social-Blueprint)  
-**👤 Author:** Luka Ivanishvili ([@lxka806](https://github.com/lxka806))  
-**📅 Latest Commit:** Jun 1, 2026 (`53db7d1`)
+![MERN Stack](https://img.shields.io/badge/MERN-Stack-green?logo=mongodb&logoColor=white&labelColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-22.x-339933?logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-5.x-000000?logo=express)
+![React](https://img.shields.io/badge/React-18.x-61DAFB?logo=react)
+![MongoDB](https://img.shields.io/badge/MongoDB-7.x-47A248?logo=mongodb)
+![JWT](https://img.shields.io/badge/JWT-Cookie-000000?logo=jsonwebtokens)
+![License](https://img.shields.io/badge/License-MIT-blue)
 
 ---
 
 ## 🎥 Live Demo Preview
 
 > *Replace the GIF below with your actual app demo*
+
+![App Demo](./docs/demo.gif)
 
 <p align="center">
   <img src="https://via.placeholder.com/800x400?text=Your+GIF+Here" alt="Demo GIF Placeholder" width="80%">
@@ -45,7 +39,7 @@ Here is the revised professional README file with your repository link added:
 
 ## 🧰 Tech Stack
 
-<table align="center">
+<table>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"><br/>React 18</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"><br/>Node.js 22.x</td>
@@ -98,8 +92,8 @@ backend/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/lxka806/Mern-Social-Blueprint.git
-cd Mern-Social-Blueprint/backend
+git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+cd YOUR_REPO_NAME/backend
 ```
 
 2. **Install dependencies**
@@ -177,7 +171,7 @@ npm run dev
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!  
-Feel free to check the [issues page](https://github.com/lxka806/Mern-Social-Blueprint/issues).
+Feel free to check the [issues page](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/issues).
 
 1. Fork the project
 2. Create your feature branch (`git checkout -b feature/amazing`)
@@ -204,6 +198,6 @@ This project is open-source and available under the **MIT License**.
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/lxka806">Luka Ivanishvili</a>
+  Made with ❤️ by <a href="https://github.com/YOUR_USERNAME">Your Name</a>
 </p>
 ```
