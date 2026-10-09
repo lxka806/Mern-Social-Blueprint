@@ -18,10 +18,6 @@
 
 ---
 
-## 📸 Preview
-
-> Add your own GIFs inside `assets/gifs/` and update the filenames if needed.
-
 ### Authentication Flow
 
 ![Authentication Demo](assets/gifs/auth-demo.gif)
